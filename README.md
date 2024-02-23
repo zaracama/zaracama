@@ -53,7 +53,13 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
 
+<picture>
+  <source media="(max-width: 767px)" srcset="">
+  <img align="right" alt="" src="./programming.svg" width=300px>
+</picture>
+
 <br>
+
 <div>
   
 A beginner in Information Technology, driven by a passion for using technology to solve problems and enhance lives. I am on a continuous journey of learning, exploring new programming concepts.I am a newcomer developer with a background in Mechanic and Admin with a strong logical thinking makes me interested in web development and mobile applications. Began my programming journey by finishing Hacktiv8 bootcamp as a full-stack developer, having decided to switch careers with skill in both front end & back end. I am looking to implement my skills to improve and to grow in the software development world.🎆🎆
