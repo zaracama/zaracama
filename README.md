@@ -181,11 +181,13 @@ A beginner in Information Technology, driven by a passion for using technology t
 </li>
 
 <br>
+	<img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
 
 <li>
 <a href="mailto:cucigudang576@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  zaracama-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
+	
 </li>
 	
 </ul>
@@ -194,15 +196,25 @@ A beginner in Information Technology, driven by a passion for using technology t
 <br>
 <br>
 
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 <br>
 <br>
 
+## 🦖 Jump and Run !!
+<br>
 
+<div align = "center">
+<img align="center" width="790" alt="GIF" src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/dino.gif" />
+</div>
+
+ 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 🐍 There's a snake in my boot!!
-
+<br>
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
@@ -228,7 +240,6 @@ A beginner in Information Technology, driven by a passion for using technology t
 <br>
 <br>
 <br>
-
 
 <br>
 
