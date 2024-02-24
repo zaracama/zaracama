@@ -157,11 +157,13 @@ A beginner in Information Technology, driven by a passion for using technology t
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-<br>
-<br>
+ <div align = "right">
+  <img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
+ </div>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
+
 <div align='left'>
 
 <ul>
@@ -181,7 +183,6 @@ A beginner in Information Technology, driven by a passion for using technology t
 </li>
 
 <br>
-	<img align='right' src='https://spotify-github-profile.vercel.app/api/view?uid=122096382&cover_image=true&theme=default'/>
 
 <li>
 <a href="mailto:cucigudang576@gmail.com" target="_blank">
@@ -203,7 +204,7 @@ A beginner in Information Technology, driven by a passion for using technology t
 <br>
 <br>
 
-## 🦖 Jump and Run !!
+## 🦖 Rawrr!!
 <br>
 
 <div align = "center">
