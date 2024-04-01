@@ -75,7 +75,7 @@ A beginner in Information Technology, driven by a passion for using technology t
 - o> Currently learning Web Development by Self.
 - o> Personal website You can reach me at [cucigudang576@gmail.com ](https://www.linkedin.com/in/fauzan-irwanto/)
 - o> I’m currently open for an Intern or a new job opportunity. 
-- o> Fun fact, I'm a fan of Manhua "Dice" 🎲 and the anime Captain Tsubasa⚽.
+- o> Fun fact, I'm a fan of Manhwa "Dice" 🎲 and the anime Captain Tsubasa⚽.
 
 <br><br>
 
